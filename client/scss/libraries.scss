@@ -1,0 +1,7 @@
+/*--Third Party Variables--*/
+$fa-font-path: "../lib/font-awesome/fonts";
+
+/*--Third Party Libraries--*/
+@import "libraries/normalize"; // symlinked css as scss from ../lib/normalize-css/normalize.css
+@import "libraries/html5-boilerplate"; // symlinked css as scss from ../lib/html5-boilerplate/css/main.css
+@import "../lib/font-awesome/scss/font-awesome";
