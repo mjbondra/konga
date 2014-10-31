@@ -8,7 +8,7 @@
     "url": "https://mjbondra.com"
   },
   "scripts": {
-    "start": "NODE_ENV=development ./node_modules/.bin/nodemon --harmony server",
+    "start": "NODE_ENV=development ./node_modules/.bin/nodemon server/index.js",
     "install": "bundle install && gulp install"
   },
   "browser": {
