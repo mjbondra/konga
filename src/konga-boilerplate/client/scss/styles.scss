@@ -1,0 +1,55 @@
+/*------------------------------------*\
+    TABLE OF CONTENTS
+\*------------------------------------*/
+
+/*---------------------------------------------------------------------*\
+  1. DEPENDENCIES...............Stylesheet Dependencies
+  2. UNIVERSAL STYLES...........Styles Applied to All Elements
+  3. BASE STYLES................Basic and Elemental Styles
+  4. LAYOUTS....................Layouts and Positioning
+  5. COMPONENTS.................Reusable Utilities and Content
+\*---------------------------------------------------------------------*/
+
+/*------------------------------------*\
+    DEPENDENCIES
+\*------------------------------------*/
+
+//--Third Party Variables--//
+
+//--Third Party Dependencies--//
+
+//--App Variables--//
+@import "variables/**/*";
+
+//--App Dependencies--//
+@import "abstractions/**/*";
+
+/*------------------------------------*\
+    UNIVERSAL STYLES
+\*------------------------------------*/
+
+*, *:before, *:after {
+  @include box-sizing(border-box);
+}
+
+/*------------------------------------*\
+    BASE STYLES
+\*------------------------------------*/
+
+html {
+  font-size: 62.5%;
+}
+
+@import "base/**/*";
+
+/*------------------------------------*\
+    LAYOUTS
+\*------------------------------------*/
+
+@import "layouts/**/*";
+
+/*------------------------------------*\
+    COMPONENTS
+\*------------------------------------*/
+
+@import "components/**/*";

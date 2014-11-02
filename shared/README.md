@@ -1,1 +1,0 @@
-This is a folder for resources that will be used by both the server and the client.
