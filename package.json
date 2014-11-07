@@ -1,15 +1,33 @@
 {
   "name": "konga",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "An opinionated Koa/AngularJS boilerplate generator.",
   "author": {
     "name": "Michael J. Bondra",
     "email": "mjbondra@gmail.com",
     "url": "https://mjbondra.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mjbondra/konga.git"
+  },
+  "keywords": [
+    "angular",
+    "koa",
+    "mongo",
+    "mongodb",
+    "mongoose"
+  ],
+  "bin": {
+    "konga": "./bin/konga.js"
+  },
+  "main": "./lib/index.js",
   "scripts": {},
   "devDependencies": {},
-  "dependencies": {},
+  "dependencies": {
+    "co": "^3.1.0",
+    "co-fs": "^1.2.0"
+  },
   "engines": {
     "node": ">=0.11.9"
   }

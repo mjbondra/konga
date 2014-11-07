@@ -1,0 +1,20 @@
+# NPM Packages #
+################
+node_modules
+
+# Compiled Source, Logs and Non-Essential Data #
+################################################
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+.DS_Store
+.sass-cache
+Gemfile.lock
+lib-cov
+logs
+pids
+results

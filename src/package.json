@@ -1,7 +1,7 @@
 {
   "name": "konga-boilerplate",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An opinionated Koa/AngularJS boilerplate.",
   "author": {
     "name": "Michael J. Bondra",
