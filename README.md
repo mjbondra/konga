@@ -47,3 +47,7 @@ For example, while in a project root, ```konga save project1``` will create a te
 ###Caveats
 
 Konga templates **do not** support binary files at this time.
+
+##Tests
+
+Coming soon.  
