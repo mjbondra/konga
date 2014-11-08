@@ -1,14 +1,18 @@
 #Konga
 
-An opinionated Koa/AngularJS boilerplate generator.
+A boilerplate management utility for creating and reusing app templates.
+
+The default template is a [Koa](http://koajs.com/)/[MongoDB](http://www.mongodb.org/)/[AngularJS](https://angularjs.org/)/[Sass](http://sass-lang.com/) app.
+
+User-generated templates are not limited to any particular framework or library.
 
 ## Dependencies
 
 [Node.js](https://nodejs.org/)  
-[MongoDB](http://www.mongodb.org/)
 
-###Dev Dependencies
+###Default Boilerplate Dependencies
 
+[MongoDB](http://www.mongodb.org/)  
 [Ruby](https://www.ruby-lang.org)  
 [Bundler](http://bundler.io/)
 
@@ -18,8 +22,8 @@ Konga uses [Koa](http://koajs.com/), which requires Node 0.11.9 or greater, and 
 
 ## Getting Started
 
-## Structure
+Konga isn't ready for use. Check back soon.
 
-## Known Issues
+## Caveats
 
-Sourcemaps are a disaster -- related gulp.js functionality will change as modules and underlying libraries mature.
+Konga templates do not support binary files.

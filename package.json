@@ -1,7 +1,7 @@
 {
   "name": "konga",
-  "version": "0.1.0",
-  "description": "An opinionated Koa/AngularJS boilerplate generator.",
+  "version": "0.1.1",
+  "description": "A boilerplate management utility for creating and reusing app templates. The default template is a Koa/MongoDB/AngularJS/Sass app. User-generated templates are not limited to any particular framework or library.",
   "author": {
     "name": "Michael J. Bondra",
     "email": "mjbondra@gmail.com",
