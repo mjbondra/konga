@@ -34,7 +34,7 @@ konga new ***project_name*** [***template_name***]
 
 This uses an existing template to populate a new directory relative to the current working directory.  
 
-For example, if you run ```konga new project1``` from ```/home/user```, the default template will be used to populate a directory located at ```/home/user/project1```.  
+For example, if you execute ```konga new project1``` from ```/home/user```, the default template will be used to populate a directory located at ```/home/user/project1```.  
 
 ###Save
 
