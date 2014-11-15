@@ -2,7 +2,7 @@
 
 A boilerplate management utility for creating and reusing app templates.
 
-The default template is a [Koa](http://koajs.com/)/[MongoDB](http://www.mongodb.org/)/[AngularJS](https://angularjs.org/)/[Sass](http://sass-lang.com/) boilerplate.
+The default template is a [Koa](http://koajs.com/)/[Mongoose](http://mongoosejs.com/)/[AngularJS](https://angularjs.org/) boilerplate.
 
 User-generated templates are not limited to any particular framework or library.
 
@@ -13,8 +13,6 @@ User-generated templates are not limited to any particular framework or library.
 ###Default Boilerplate Dependencies
 
 [MongoDB](http://www.mongodb.org/)  
-[Ruby](https://www.ruby-lang.org)  
-[Bundler](http://bundler.io/)
 
 ###Dependency Notes
 
